@@ -232,5 +232,6 @@ europe-trip-2026/
 │   ├── pantheon-oct10.pdf
 │   ├── notre-dame-bell-towers-oct11-915am.pdf
 │   └── sainte-chapelle-conciergerie-oct11-12pm.pdf
-└── confirmations/         ← flight, hotel, restaurant confirmation screenshots
+├── confirmations/         ← flight, hotel, restaurant confirmation screenshots (16)
+└── research/              ← flight searches, seat maps, fare comparisons (19)
 ```
