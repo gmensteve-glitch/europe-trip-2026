@@ -36,9 +36,9 @@ Steven & Franchesca Vaynberg
 - Long lunch, nap at hotel by 3pm
 - Uber to La Défense Arena (~25 min)
 - **CELINE DION 8pm**
-- Uber back for late dinner — 📌 **BOOK**
+- ⏳ **Maison Georges 11:00pm** — 5 min walk from arena — 2095 Bd de la Défense, Nanterre — +33 1 80 27 21 19 — PENDING confirmation
 
-**Post-Celine dinner options (all open till 1–2am):**
+**Post-Celine backup options (all open till 1–2am):**
 
 | Restaurant | What | Phone |
 |---|---|---|
@@ -57,7 +57,7 @@ Steven & Franchesca Vaynberg
 - ✅ **Musée d'Orsay 2:00pm** — Access 1 via the Quay — Metro 12 Solférino — Transaction ID 201226935 — don't be >30 min late — [ticket](tickets/musee-dorsay-oct10-2pm.pdf)
 - Luxembourg Gardens stroll
 - ✅ **Panthéon** — day ticket 10am–5pm, aim ~4:30pm — 5 min walk from Luxembourg — #757308165781811 / #757308165781900 — [ticket](tickets/pantheon-oct10.pdf)
-- Dinner in Saint-Germain — 📌 **BOOK**
+- ✅ **Osteria del Sesto 7:30pm** — 11 Rue de la Grande Chaumière, 6th — +33 1 42 01 37 43 — via OpenTable
 
 ### Oct 11 (Sun) — Historic Paris ⛪
 - ✅ **Notre-Dame Bell Towers 9:15am** — ARRIVE BY 9:00 (late = cancelled) — entrance left side of façade — 424 steps, no elevator, no bathrooms — Tickets #65730139087809 / #65730139087918 — [ticket](tickets/notre-dame-bell-towers-oct11-915am.pdf)
@@ -185,6 +185,8 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 
 | Restaurant | Date | Time | City | Address / Ref |
 |---|---|---|---|---|
+| Maison Georges ⏳ pending | Fri Oct 9 | 11:00pm | Paris (Nanterre) | 2095 Bd de la Défense — +33 1 80 27 21 19 |
+| Osteria del Sesto | Sat Oct 10 | 7:30pm | Paris | 11 Rue de la Grande Chaumière — +33 1 42 01 37 43 |
 | Café de l'Homme | Sun Oct 11 | 9:30pm | Paris | 17 Place du Trocadéro — Ref AC89AX6L78NA |
 | Le Bon Georges | Mon Oct 12 | 10:15pm | Paris | 45 Rue Saint-Georges — +33 1 48 78 40 30 |
 | NUDO | Tue Oct 13 | 9:00pm | Seville | Plaza de la Encarnación 19 |
@@ -195,8 +197,8 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 
 ## 📋 Still to book
 
-- [ ] Post-Celine dinner — Oct 9 ~11pm
-- [ ] Saint-Germain dinner — Oct 10
+- [ ] Confirm Maison Georges — Oct 9 (pending)
+- [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking
 - [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
 - [ ] Seine river cruise — Oct 12 evening
 - [ ] Seville dinner — Oct 15
