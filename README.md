@@ -12,7 +12,7 @@ Steven & Franchesca Vaynberg
 |---|---|
 | **Depart** | Oct 7, 8:35pm — LAX → LHR (Virgin Atlantic VS0142) |
 | **Return** | Oct 22, 9:55am — LHR → LAX (Virgin Atlantic), arrive 1:10pm |
-| **Nights** | Paris 5 · Seville 3 · Barcelona 4 · London 2 |
+| **Nights** | Paris 5 · Seville 2 · Granada 1 · Barcelona 4 · London 2 |
 | **Celine Dion** | Fri Oct 9, 8pm — La Défense Arena, Paris |
 
 ---
@@ -85,22 +85,44 @@ Steven & Franchesca Vaynberg
 
 ---
 
-## 🇪🇸 Seville — Oct 13–16
+## 🇪🇸 Seville — Oct 13–15
 
-**🏨 Querencia de Sevilla, Autograph Collection** — Oct 13–16 — Conf# 97811298
+**🏨 Querencia de Sevilla, Autograph Collection** — Oct 13–15 — Conf# 97811298 — 📌 CALL MARRIOTT to shorten from 3 nights to 2
 
 ### Oct 13 (Tue) — Arrive
 - Land SVQ 12:10pm. Taxi to hotel (~20 min). Check in ~12:30pm.
 - Half day exploring — 📝 add plans
 - ✅ **NUDO 9:00pm** — table for 2 — Plaza de la Encarnación 19 (by Las Setas)
 
-### Oct 14 (Wed) — Full day
-- 📝 add plans
+### Oct 14 (Wed) — Alcázar + Triana + Flamenco
+- Relaxed morning — churros, wander Santa Cruz
+- ✅ **Alcázar + Cathedral + Giralda guided tour 1:00pm** (2.5 hrs) — meet City Expert shop, Av. de la Constitución 23b — ARRIVE BY 12:50, late = can't join — BRING PASSPORTS — GetYourGuide ref GYGMX38R2B29
+- Late afternoon: cross to Triana — Calle Betis, ceramic shops, drink on the river
+- ✅ **Teatro Flamenco Sevilla 7:00pm** — "Pasión", 2 Premium tickets, ~1 hr — C. Cuna 15 (10 min walk) — arrive 6:45
 - ✅ **El Pintón 9:00pm** — table for 2, tapas area — C. Francos 42 (near Cathedral) — 955 07 51 53
 
-### Oct 15 (Thu) — Full day
-- 📝 add plans
-- Dinner — 📌 **BOOK**
+### Oct 15 (Thu) — Seville → Granada
+- Morning: Deliverbag picks up luggage at Querencia → delivers to Cotton House Barcelona — 📌 **BOOK** (deliverbag.com)
+- Churros, last Santa Cruz wander, pack daypacks
+- ✅ **12:17pm Renfe train Sevilla Santa Justa → Granada** — arrive 2:55pm — direct, seats reserved — PNR 2MU2CF — leave hotel ~11:30
+- Arrive 2:55pm, taxi to Palacio de Santa Paula (5 min from Cathedral, 10 min to Plaza Nueva)
+- Afternoon: Albaicín (old Moorish quarter), winding streets, tea houses on Calle Calderería Nueva
+- **Mirador de San Nicolás at sunset** — the classic Alhambra + Sierra Nevada view
+- Dinner in Granada — tapas come free with every drink here
+
+---
+
+## 🇪🇸 Granada — Oct 15–16
+
+**🏨 Hotel Palacio de Santa Paula, Autograph Collection** — Oct 15–16 — Conf# 75665087 — Gran Vía de Colón 31 — +34 958 805 740
+
+### Oct 16 (Fri) — Alhambra → Barcelona
+- ✅ **Alhambra + Nasrid Palaces guided tour 9:30am** (3 hrs, max 10 group) — meet at "Guides" sign, P.º del Generalife 1F — ARRIVE BY 9:15 — **BRING PASSPORTS** — backpacks worn on front in Nasrid Palaces — GetYourGuide ref GYGVN22FAAZN
+- ⚠️ Alcazaba fortress closed since Aug 2026 earthquake; Nasrid Palaces + Generalife on modified route
+- Lunch in Granada
+- Afternoon: more Albaicín, or Sacromonte cave district
+- Ask hotel to hold bags after checkout; ~6pm taxi to airport (20 min, ~€30)
+- ✅ **8:00pm Vueling VY2015 GRX → BCN** — land 9:30pm — taxi to Cotton House, check in ~10:30pm
 
 ---
 
@@ -108,23 +130,33 @@ Steven & Franchesca Vaynberg
 
 **🏨 Cotton House Hotel, Autograph Collection** — Oct 16–20 — Conf# 97844676
 
-### Oct 16 (Fri) — Fly Seville → Barcelona
-- Relaxed Seville morning
-- 1:40pm Vueling VY2223 SVQ → BCN — Ref OGU24S. Land 3:25pm. Taxi to hotel (~30 min). Check in ~4pm.
-- Evening exploring — 📝 add plans
+### Oct 16 (Fri) — Arrive late from Granada
+- Land BCN 9:30pm on Vueling VY2015. Taxi to Cotton House (~30 min). Check in ~10:30pm.
+- Luggage should already be waiting (Deliverbag from Seville)
+- Sleep
+
+### Oct 17 (Sat) — Sagrada Família
+- Sleep in — first real morning in Barcelona
+- Late breakfast, wander Eixample
+- ✅ **Sagrada Família small-group tour 1:00pm** (1.5 hrs, official guide, max 10) — meet at Burger King entrance, Carrer de la Marina 255, directly in front of the basilica — ARRIVE 12:45 — dress code: no tank tops / short shorts / sandals — GetYourGuide ref GYGRFQFHV6KK
+- Afternoon: walk Avinguda de Gaudí to Hospital de Sant Pau (10 min), or Passeig de Gràcia for Casa Batlló / La Pedrera exteriors
+- Rest, dress up (smart casual, jacket welcome)
+- ✅ **Cocina Hermanos Torres 9:00pm** — 3★ Michelin, #2 in Barcelona — Carrer del Taquígraf Serra 20, Les Corts (15 min Uber) — no pork noted — via TheFork
+- ⏳ Lasarte 8:30pm — WAITLISTED, same night — if it clears, pick one and cancel the other
+
+### Oct 18 (Sun) — Park Güell + Gràcia
+- ✅ **Park Güell guided tour 11:00am** (1 hr, skip-the-line) — ARRIVE 10:45, no late entry — City Wonders — check GetYourGuide app for meeting point
+- Lunch in Gràcia (the village-y neighborhood just below the park)
+- Afternoon: Passeig de Gràcia — Casa Batlló, La Pedrera (exteriors or book interior), shopping
+- Sunset at Bunkers del Carmel (optional — best view in the city, free, bring wine)
 - Dinner — 📌 **BOOK**
 
-### Oct 17 (Sat) — Full day
-- 📝 add plans
-- Dinner — 📌 **BOOK**
-
-### Oct 18 (Sun) — Full day
-- 📝 add plans
-- Dinner — 📌 **BOOK**
-
-### Oct 19 (Mon) — Full day
-- 📝 add plans
-- Dinner — 📌 **BOOK**
+### Oct 19 (Mon) — Old City + Beach
+- Gothic Quarter, Cathedral, El Born, Santa Maria del Mar — all walk-up
+- La Boqueria market mid-morning
+- Barceloneta beach walk, seafood lunch on the water
+- ✅ **Jacqueline 8:00pm** — El Comedor (main room) — Carrer d'Enric Granados 66, Eixample — Mediterranean/seafood, live jazz in the basement — dress code: no caps, sportswear, sneakers — 15 min courtesy window — Ref #5E2HWN4JUWN5
+- Pack for London — 7:40am flight tomorrow
 
 ---
 
@@ -156,7 +188,9 @@ Steven & Franchesca Vaynberg
 | LAX → LHR | Oct 7 | 8:35pm | Virgin Atlantic VS0142 | CUSIOM |
 | LHR → CDG | Oct 8 | 7:45pm | Air France AF1181 | XKSA5L / Expedia 73515246272484 |
 | ORY → SVQ | Oct 13 | 9:45am | Vueling VY8221 | IWRBKK |
-| SVQ → BCN | Oct 16 | 1:40pm | Vueling VY2223 | OGU24S |
+| ~~SVQ → BCN~~ | ~~Oct 16~~ | ~~1:40pm~~ | ~~Vueling VY2223~~ | ~~OGU24S~~ — NOT USING, non-refundable |
+| Train SVQ → Granada | Oct 15 | 12:17pm | Renfe, direct 2h38m | PNR 2MU2CF |
+| GRX → BCN | Oct 16 | 8:00pm | Vueling VY2015 | ✅ booked |
 | BCN → LHR | Oct 20 | 7:40am | British Airways BA487 (Club Europe) | ZJFQTB |
 | LHR → LAX | Oct 22 | 9:55am | Virgin Atlantic | DUI9CB |
 
@@ -167,7 +201,8 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | City | Hotel | Dates | Nights | Conf# |
 |---|---|---|---|---|
 | Paris | Hôtel de Berri, Luxury Collection | Oct 8–13 | 5 | 96633567 |
-| Seville | Querencia de Sevilla, Autograph Collection | Oct 13–16 | 3 | 97811298 |
+| Seville | Querencia de Sevilla, Autograph Collection | Oct 13–15 | 2 | 97811298 — 📌 shorten from 3 nights |
+| Granada | Hotel Palacio de Santa Paula, Autograph Collection | Oct 15–16 | 1 | 75665087 |
 | Barcelona | Cotton House Hotel, Autograph Collection | Oct 16–20 | 4 | 97844676 |
 | London | Sheraton Grand London Park Lane | Oct 20–22 | 2 | 76341405 |
 
@@ -180,6 +215,11 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | Panthéon | Sat Oct 10 | day ticket 10am–5pm | #757308165781811 / #757308165781900 | [pdf](tickets/pantheon-oct10.pdf) |
 | Notre-Dame Bell Towers | Sun Oct 11 | 9:15am | #65730139087809 / #65730139087918 | [pdf](tickets/notre-dame-bell-towers-oct11-915am.pdf) |
 | Sainte-Chapelle + Conciergerie | Sun Oct 11 | 12:00pm | GetYourGuide GYGKBF44HY7W, PIN GXBSkRLT | [pdf](tickets/sainte-chapelle-conciergerie-oct11-12pm.pdf) |
+| Alcázar + Cathedral + Giralda tour | Wed Oct 14 | 1:00pm | GetYourGuide GYGMX38R2B29 | mobile ticket |
+| Teatro Flamenco Sevilla — "Pasión" | Wed Oct 14 | 7:00pm | 2 Premium, €39 | email confirmation |
+| Alhambra + Nasrid Palaces tour | Fri Oct 16 | 9:30am | GetYourGuide GYGVN22FAAZN | mobile ticket |
+| Sagrada Família small-group tour | Sat Oct 17 | 1:00pm | GetYourGuide GYGRFQFHV6KK | mobile ticket |
+| Park Güell guided tour | Sun Oct 18 | 11:00am | GetYourGuide (City Wonders) | mobile ticket |
 
 ## 🍽️ Restaurant reservations — booked
 
@@ -191,6 +231,9 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | Le Bon Georges | Mon Oct 12 | 10:15pm | Paris | 45 Rue Saint-Georges — +33 1 48 78 40 30 |
 | NUDO | Tue Oct 13 | 9:00pm | Seville | Plaza de la Encarnación 19 |
 | El Pintón | Wed Oct 14 | 9:00pm | Seville | C. Francos 42 — 955 07 51 53 |
+| Cocina Hermanos Torres (3★) | Sat Oct 17 | 9:00pm | Barcelona | Carrer del Taquígraf Serra 20 — via TheFork |
+| Lasarte (3★) ⏳ waitlist | Sat Oct 17 | 8:30pm | Barcelona | C/ de Mallorca 259 — tasting €345 |
+| Jacqueline | Mon Oct 19 | 8:00pm | Barcelona | Enric Granados 66 — Ref #5E2HWN4JUWN5 |
 | Engel | Tue Oct 20 | 2:00pm | London | Royal Exchange, EC3V 3LT — 020 8187 2208 |
 
 ---
@@ -201,8 +244,10 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 - [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking
 - [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
 - [ ] Seine river cruise — Oct 12 evening
-- [ ] Seville dinner — Oct 15
-- [ ] Barcelona dinners — Oct 16, 17, 18, 19
+- [ ] Deliverbag luggage Querencia → Cotton House — Oct 15
+- [ ] Call Marriott: shorten Querencia to Oct 13–15
+- [ ] Granada dinner — Oct 15
+- [ ] Barcelona dinner — Oct 18 (Gresca or Altamar)
 - [ ] London dinners — Oct 20, 21
 - [ ] Travel insurance
 - [ ] Check passport expiration dates
