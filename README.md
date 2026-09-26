@@ -169,7 +169,7 @@ Steven & Franchesca Vaynberg
 - Heathrow Express to Paddington, taxi to hotel. Check in ~11am.
 - ✅ **Engel 2:00pm** — lunch for 2 — The Mezzanine, Royal Exchange, EC3V 3LT (Bank station, ~25 min tube) — 020 8187 2208 — cancel 24hrs ahead or £25/guest
 - Afternoon/evening — 📝 add plans
-- Dinner — 📌 **BOOK**
+- ✅ **Jacuzzi 9:00pm** — Big Mamma Italian — 94 Kensington High St, W8 4SG — truffle pasta, pistachio burrata — Ref #6B3X62X7YFNS — booked under Franchesca
 
 ### Oct 21 (Wed) — Full day
 - 📝 add plans
@@ -235,6 +235,7 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | Lasarte (3★) ⏳ waitlist | Sat Oct 17 | 8:30pm | Barcelona | C/ de Mallorca 259 — tasting €345 |
 | Jacqueline | Mon Oct 19 | 8:00pm | Barcelona | Enric Granados 66 — Ref #5E2HWN4JUWN5 |
 | Engel | Tue Oct 20 | 2:00pm | London | Royal Exchange, EC3V 3LT — 020 8187 2208 |
+| Jacuzzi | Tue Oct 20 | 9:00pm | London | 94 Kensington High St — Ref #6B3X62X7YFNS |
 
 ---
 
@@ -248,7 +249,7 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 - [ ] Call Marriott: shorten Querencia to Oct 13–15
 - [ ] Granada dinner — Oct 15
 - [ ] Barcelona dinner — Oct 18 (Gresca or Altamar)
-- [ ] London dinners — Oct 20, 21
+- [ ] London dinner — Oct 21
 - [ ] Travel insurance
 - [ ] Check passport expiration dates
 
