@@ -172,8 +172,13 @@ Steven & Franchesca Vaynberg
 - ✅ **Jacuzzi 9:00pm** — Big Mamma Italian — 94 Kensington High St, W8 4SG — truffle pasta, pistachio burrata — Ref #6B3X62X7YFNS — booked under Franchesca
 
 ### Oct 21 (Wed) — Full day
-- 📝 add plans
-- Dinner — 📌 **BOOK**
+- 10am — Westminster Abbey (book at westminster-abbey.org) or walk-up
+- Big Ben, St James's Park, Buckingham Palace (Changing of the Guard ~11am Wed, check royal.uk)
+- Tube to Borough Market — lunch
+- Walk the Thames to Tower Bridge
+- Back to hotel, rest, pack
+- ✅ **The Devonshire 8:45pm** — 17 Denman St, Soho — 15 min walk — wood-grilled chops & steaks, best Guinness in London — Ref DMN-16966293074
+- Early night — 9:55am flight
 
 ### Oct 22 (Thu) — Fly home
 - Wake up ~6am. Heathrow Express to airport.
@@ -236,6 +241,7 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | Jacqueline | Mon Oct 19 | 8:00pm | Barcelona | Enric Granados 66 — Ref #5E2HWN4JUWN5 |
 | Engel | Tue Oct 20 | 2:00pm | London | Royal Exchange, EC3V 3LT — 020 8187 2208 |
 | Jacuzzi | Tue Oct 20 | 9:00pm | London | 94 Kensington High St — Ref #6B3X62X7YFNS |
+| The Devonshire | Wed Oct 21 | 8:45pm | London | 17 Denman St, Soho — Ref DMN-16966293074 |
 
 ---
 
@@ -248,7 +254,6 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 - [ ] Call Marriott: shorten Querencia to Oct 13–15
 - [ ] Granada dinner — Oct 15
 - [ ] Barcelona dinner — Oct 18 (Gresca or Altamar)
-- [ ] London dinner — Oct 21
 - [ ] Travel insurance
 - [ ] Check passport expiration dates
 
