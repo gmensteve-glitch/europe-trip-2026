@@ -25,7 +25,7 @@ Steven & Franchesca Vaynberg
 - Land LHR 3:00pm (Virgin Atlantic VS0142, T3)
 - Dinner at Heathrow T2
 - 7:45pm Air France AF1181 → CDG, land 10:00pm
-- Taxi to hotel, check in ~10:45pm
+- ✅ Welcome Pickups driver at arrivals — pickup 10:10pm, ETA hotel 10:48pm
 
 ### Oct 9 (Fri) — Easy day + Celine 🎤
 - Sleep in, croissants near hotel
@@ -80,7 +80,7 @@ Steven & Franchesca Vaynberg
 - Pack for Seville
 
 ### Oct 13 (Tue) — Fly to Seville
-- Leave hotel ~7am
+- ✅ Welcome Pickups from hotel **7:30am** → Orly, ETA 8:08
 - 9:45am Vueling VY8221 from Orly (ORY) — Ref IWRBKK
 
 ---
@@ -90,7 +90,7 @@ Steven & Franchesca Vaynberg
 **🏨 Querencia de Sevilla, Autograph Collection** — Oct 13–15 — Conf# 97811298 — shortened to 2 nights, confirmed
 
 ### Oct 13 (Tue) — Arrive
-- Land SVQ 12:10pm. Taxi to hotel (~20 min). Check in ~12:30pm.
+- Land SVQ 12:10pm. ✅ Welcome Pickups driver at arrivals, ETA hotel 12:43pm. Check in.
 - Half day exploring — 📝 add plans
 - ✅ **NUDO 9:00pm** — table for 2 — Plaza de la Encarnación 19 (by Las Setas)
 
@@ -120,7 +120,8 @@ Steven & Franchesca Vaynberg
 - ⚠️ Alcazaba fortress closed since Aug 2026 earthquake; Nasrid Palaces + Generalife on modified route
 - Lunch in Granada
 - Afternoon: more Albaicín, or Sacromonte cave district
-- Bags with you on the train; ask Santa Paula to hold after checkout; ~6pm taxi to airport (20 min, ~€30)
+- Bags with you on the train; ask Santa Paula to hold after checkout
+- ✅ Welcome Pickups from hotel **6:00pm** → GRX, ETA 6:25
 - ✅ **8:00pm Vueling VY2015 GRX → BCN** — land 9:30pm — taxi to Cotton House, check in ~10:30pm
 
 ---
@@ -130,7 +131,7 @@ Steven & Franchesca Vaynberg
 **🏨 Cotton House Hotel, Autograph Collection** — Oct 16–20 — Conf# 97844676
 
 ### Oct 16 (Fri) — Arrive late from Granada
-- Land BCN 9:30pm on Vueling VY2015. Taxi to Cotton House (~30 min). Check in ~10:30pm.
+- Land BCN 9:30pm on Vueling VY2015. ✅ Welcome Pickups driver at arrivals, ETA Cotton House 9:50pm. Check in.
 - Sleep
 
 ### Oct 17 (Sat) — Sagrada Família
@@ -164,7 +165,8 @@ Steven & Franchesca Vaynberg
 **🏨 Sheraton Grand London Park Lane** — Oct 20–22 — Conf# 76341405
 
 ### Oct 20 (Tue) — Fly Barcelona → London
-- Wake up ~5am. 7:40am British Airways BA487 BCN T1 → LHR T5 (Club Europe Business) — Ref ZJFQTB. Land 9:10am.
+- Wake up ~4:30am. ✅ Welcome Pickups from Cotton House **5:20am** → BCN, ETA 5:46
+- 7:40am British Airways BA487 BCN T1 → LHR T5 (Club Europe Business) — Ref ZJFQTB. Land 9:10am.
 - Heathrow Express to Paddington, taxi to hotel. Check in ~11am.
 - ✅ **Engel 2:00pm** — lunch for 2 — The Mezzanine, Royal Exchange, EC3V 3LT (Bank station, ~25 min tube) — 020 8187 2208 — cancel 24hrs ahead or £25/guest
 - Afternoon/evening — 📝 add plans
@@ -199,6 +201,19 @@ Steven & Franchesca Vaynberg
 | LHR → LAX | Oct 22 | 9:55am | Virgin Atlantic | DUI9CB |
 
 Confirmation screenshots in [`confirmations/`](confirmations/).
+
+## 🚗 Airport transfers — all booked (Welcome Pickups)
+
+| Date | Route | Pickup | ETA |
+|---|---|---|---|
+| Oct 8 | CDG → Hôtel de Berri | 10:10pm (flight landing) | 10:48pm |
+| Oct 13 | Hôtel de Berri → Orly | 7:30am | 8:08am |
+| Oct 13 | SVQ → Querencia | 12:10pm (flight landing) | 12:43pm |
+| Oct 16 | Palacio de Santa Paula → GRX | 6:00pm | 6:25pm |
+| Oct 16 | BCN → Cotton House | 9:30pm (flight landing) | 9:50pm |
+| Oct 20 | Cotton House → BCN | 5:20am | 5:46am |
+
+London: Heathrow Express (Paddington ↔ LHR, 15 min) both ways — no transfer needed.
 
 ## 🏨 Hotels — all booked
 
@@ -252,6 +267,7 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 - [ ] Seine river cruise — Oct 12 evening
 - [ ] Granada dinner — Oct 15
 - [ ] Travel insurance
+- [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking (if still active)
 - [ ] Check passport expiration dates
 
 ## 🌤️ Weather
