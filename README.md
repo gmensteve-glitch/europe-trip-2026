@@ -149,7 +149,8 @@ Steven & Franchesca Vaynberg
 - Lunch in Gràcia (the village-y neighborhood just below the park)
 - Afternoon: Passeig de Gràcia — Casa Batlló, La Pedrera (exteriors or book interior), shopping
 - Sunset at Bunkers del Carmel (optional — best view in the city, free, bring wine)
-- Dinner — 📌 **BOOK**
+- Cocktail at Paradiso (hidden behind the pastrami shop, Carrer de Rera Palau 4) — 3 min from dinner
+- ✅ **Bornès 9:15pm** — El Born — modern Mediterranean, canopy of lights over each table, cocktail bar in front — Carrer de la Carassa 2 — +34 934 00 27 77 — via TheFork
 
 ### Oct 19 (Mon) — Old City + Beach
 - Gothic Quarter, Cathedral, El Born, Santa Maria del Mar — all walk-up
@@ -237,6 +238,7 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | NUDO | Tue Oct 13 | 9:00pm | Seville | Plaza de la Encarnación 19 |
 | El Pintón | Wed Oct 14 | 9:00pm | Seville | C. Francos 42 — 955 07 51 53 |
 | Cocina Hermanos Torres (3★) | Sat Oct 17 | 9:00pm | Barcelona | Carrer del Taquígraf Serra 20 — via TheFork |
+| Bornès | Sun Oct 18 | 9:15pm | Barcelona | Carrer de la Carassa 2, El Born — via TheFork |
 | Lasarte (3★) ⏳ waitlist | Sat Oct 17 | 8:30pm | Barcelona | C/ de Mallorca 259 — tasting €345 |
 | Jacqueline | Mon Oct 19 | 8:00pm | Barcelona | Enric Granados 66 — Ref #5E2HWN4JUWN5 |
 | Engel | Tue Oct 20 | 2:00pm | London | Royal Exchange, EC3V 3LT — 020 8187 2208 |
@@ -253,7 +255,6 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 - [ ] Deliverbag luggage Querencia → Cotton House — Oct 15
 - [ ] Call Marriott: shorten Querencia to Oct 13–15
 - [ ] Granada dinner — Oct 15
-- [ ] Barcelona dinner — Oct 18 (Gresca or Altamar)
 - [ ] Travel insurance
 - [ ] Check passport expiration dates
 
