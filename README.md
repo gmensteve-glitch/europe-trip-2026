@@ -182,8 +182,9 @@ Steven & Franchesca Vaynberg
 - Early night — 9:55am flight
 
 ### Oct 22 (Thu) — Fly home
-- Wake up ~6am. Heathrow Express to airport.
-- 9:55am Virgin Atlantic LHR T3 → LAX — Ref DUI9CB. Arrive 1:10pm.
+- Wake up ~5:30am
+- ✅ Blacklane Mercedes van from hotel **6:20am** → LHR T3, ETA 7:06 — Ref BL-RCSN3-AAJ2
+- 9:55am Virgin Atlantic VS007 LHR T3 → LAX — Ref DUI9CB. Arrive 1:10pm.
 
 ---
 
@@ -198,7 +199,7 @@ Steven & Franchesca Vaynberg
 | Train SVQ → Granada | Oct 15 | 12:17pm | Renfe, direct 2h38m | PNR 2MU2CF |
 | GRX → BCN | Oct 16 | 8:00pm | Vueling VY2015 | ✅ booked |
 | BCN → LHR | Oct 20 | 7:40am | British Airways BA487 (Club Europe) | ZJFQTB |
-| LHR → LAX | Oct 22 | 9:55am | Virgin Atlantic | DUI9CB |
+| LHR → LAX | Oct 22 | 9:55am | Virgin Atlantic VS007 | DUI9CB |
 
 Confirmation screenshots in [`confirmations/`](confirmations/).
 
@@ -212,8 +213,9 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | Oct 16 | Palacio de Santa Paula → GRX | 6:00pm | 6:25pm |
 | Oct 16 | BCN → Cotton House | 9:30pm (flight landing) | 9:50pm |
 | Oct 20 | Cotton House → BCN | 5:20am | 5:46am |
+| Oct 22 | Sheraton Park Lane → LHR T3 (Blacklane) | 6:20am | 7:06am |
 
-London: Heathrow Express (Paddington ↔ LHR, 15 min) both ways — no transfer needed.
+Oct 20 LHR arrival → hotel: Heathrow Express to Paddington (15 min), then taxi.
 
 ## 🏨 Hotels — all booked
 
