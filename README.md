@@ -87,7 +87,7 @@ Steven & Franchesca Vaynberg
 
 ## 🇪🇸 Seville — Oct 13–15
 
-**🏨 Querencia de Sevilla, Autograph Collection** — Oct 13–15 — Conf# 97811298 — 📌 CALL MARRIOTT to shorten from 3 nights to 2
+**🏨 Querencia de Sevilla, Autograph Collection** — Oct 13–15 — Conf# 97811298 — shortened to 2 nights, confirmed
 
 ### Oct 13 (Tue) — Arrive
 - Land SVQ 12:10pm. Taxi to hotel (~20 min). Check in ~12:30pm.
@@ -102,7 +102,6 @@ Steven & Franchesca Vaynberg
 - ✅ **El Pintón 9:00pm** — table for 2, tapas area — C. Francos 42 (near Cathedral) — 955 07 51 53
 
 ### Oct 15 (Thu) — Seville → Granada
-- Morning: Deliverbag picks up luggage at Querencia → delivers to Cotton House Barcelona — 📌 **BOOK** (deliverbag.com)
 - Churros, last Santa Cruz wander, pack daypacks
 - ✅ **12:17pm Renfe train Sevilla Santa Justa → Granada** — arrive 2:55pm — direct, seats reserved — PNR 2MU2CF — leave hotel ~11:30
 - Arrive 2:55pm, taxi to Palacio de Santa Paula (5 min from Cathedral, 10 min to Plaza Nueva)
@@ -121,7 +120,7 @@ Steven & Franchesca Vaynberg
 - ⚠️ Alcazaba fortress closed since Aug 2026 earthquake; Nasrid Palaces + Generalife on modified route
 - Lunch in Granada
 - Afternoon: more Albaicín, or Sacromonte cave district
-- Ask hotel to hold bags after checkout; ~6pm taxi to airport (20 min, ~€30)
+- Bags with you on the train; ask Santa Paula to hold after checkout; ~6pm taxi to airport (20 min, ~€30)
 - ✅ **8:00pm Vueling VY2015 GRX → BCN** — land 9:30pm — taxi to Cotton House, check in ~10:30pm
 
 ---
@@ -132,7 +131,6 @@ Steven & Franchesca Vaynberg
 
 ### Oct 16 (Fri) — Arrive late from Granada
 - Land BCN 9:30pm on Vueling VY2015. Taxi to Cotton House (~30 min). Check in ~10:30pm.
-- Luggage should already be waiting (Deliverbag from Seville)
 - Sleep
 
 ### Oct 17 (Sat) — Sagrada Família
@@ -207,7 +205,7 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 | City | Hotel | Dates | Nights | Conf# |
 |---|---|---|---|---|
 | Paris | Hôtel de Berri, Luxury Collection | Oct 8–13 | 5 | 96633567 |
-| Seville | Querencia de Sevilla, Autograph Collection | Oct 13–15 | 2 | 97811298 — 📌 shorten from 3 nights |
+| Seville | Querencia de Sevilla, Autograph Collection | Oct 13–15 | 2 | 97811298 |
 | Granada | Hotel Palacio de Santa Paula, Autograph Collection | Oct 15–16 | 1 | 75665087 |
 | Barcelona | Cotton House Hotel, Autograph Collection | Oct 16–20 | 4 | 97844676 |
 | London | Sheraton Grand London Park Lane | Oct 20–22 | 2 | 76341405 |
@@ -252,8 +250,6 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 - [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking
 - [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
 - [ ] Seine river cruise — Oct 12 evening
-- [ ] Deliverbag luggage Querencia → Cotton House — Oct 15
-- [ ] Call Marriott: shorten Querencia to Oct 13–15
 - [ ] Granada dinner — Oct 15
 - [ ] Travel insurance
 - [ ] Check passport expiration dates
