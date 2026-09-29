@@ -94,8 +94,10 @@ Steven & Franchesca Vaynberg
 - Half day exploring — 📝 add plans
 - ✅ **NUDO 9:00pm** — table for 2 — Plaza de la Encarnación 19 (by Las Setas)
 
-### Oct 14 (Wed) — Alcázar + Triana + Flamenco
-- Relaxed morning — churros, wander Santa Cruz
+### Oct 14 (Wed) — Baths + Alcázar + Triana + Flamenco
+- Light breakfast at hotel
+- ✅ **AIRE Ancient Baths 10:00am** — thermal baths + 60-min massage each, 135 min, rooftop access — Calle Aire 15 (5 min from hotel) — arrive 9:45 — done ~12:15
+- Walk 5 min to Av. de la Constitución for the tour
 - ✅ **Alcázar + Cathedral + Giralda guided tour 1:00pm** (2.5 hrs) — meet City Expert shop, Av. de la Constitución 23b — ARRIVE BY 12:50, late = can't join — BRING PASSPORTS — GetYourGuide ref GYGMX38R2B29
 - Late afternoon: cross to Triana — Calle Betis, ceramic shops, drink on the river
 - ✅ **Teatro Flamenco Sevilla 7:00pm** — "Pasión", 2 Premium tickets, ~1 hr — C. Cuna 15 (10 min walk) — arrive 6:45
@@ -299,6 +301,7 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 | Notre-Dame Bell Towers | Sun Oct 11 | 9:15am | #65730139087809 / #65730139087918 | [pdf](tickets/notre-dame-bell-towers-oct11-915am.pdf) |
 | Sainte-Chapelle + Conciergerie | Sun Oct 11 | 12:00pm | GetYourGuide GYGKBF44HY7W, PIN GXBSkRLT | [pdf](tickets/sainte-chapelle-conciergerie-oct11-12pm.pdf) |
 | Alcázar + Cathedral + Giralda tour | Wed Oct 14 | 1:00pm | GetYourGuide GYGMX38R2B29 | mobile ticket |
+| AIRE Ancient Baths + 60-min massage | Wed Oct 14 | 10:00am | 2 people, €284 | email confirmation |
 | Teatro Flamenco Sevilla — "Pasión" | Wed Oct 14 | 7:00pm | 2 Premium, €39 | email confirmation |
 | Alhambra + Nasrid Palaces tour | Fri Oct 16 | 9:30am | GetYourGuide GYGVN22FAAZN | mobile ticket |
 | Sagrada Família small-group tour | Sat Oct 17 | 1:00pm | GetYourGuide GYGRFQFHV6KK | mobile ticket |
