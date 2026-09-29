@@ -330,7 +330,7 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 - [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
 - [ ] Seine river cruise — Oct 12 evening
 - [ ] Granada dinner — Oct 15
-- [ ] Enroll in Priority Pass (Amex Brilliant) + get Franchesca a card
+- [x] Enroll in Priority Pass (Amex Brilliant)
 - [ ] Email all 5 hotels 3 days before arrival — Platinum requests
 - [ ] Travel insurance
 - [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking (if still active)
