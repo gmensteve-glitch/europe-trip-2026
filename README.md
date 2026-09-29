@@ -108,8 +108,9 @@ Steven & Franchesca Vaynberg
 - ✅ **12:17pm Renfe train Sevilla Santa Justa → Granada** — arrive 2:55pm — direct, seats reserved — PNR 2MU2CF — leave hotel ~11:30
 - Arrive 2:55pm, taxi to Palacio de Santa Paula (5 min from Cathedral, 10 min to Plaza Nueva)
 - Afternoon: Albaicín (old Moorish quarter), winding streets, tea houses on Calle Calderería Nueva
-- **Mirador de San Nicolás at sunset** — the classic Alhambra + Sierra Nevada view
-- Dinner in Granada — tapas come free with every drink here
+- **Mirador de San Nicolás at sunset** (~7:20pm) — the classic Alhambra + Sierra Nevada view
+- ✅ **Carmen El Agua 8:00pm** — outdoor balcony, first row, Alhambra view — 3 min walk down from the Mirador — Placeta del Aljibe de Trillo 7 — +34 958 22 43 56 — no pork
+- Walk the Albaicín back down in the dark
 
 ---
 
@@ -317,6 +318,7 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 | Le Bon Georges | Mon Oct 12 | 10:15pm | Paris | 45 Rue Saint-Georges — +33 1 48 78 40 30 |
 | NUDO | Tue Oct 13 | 9:00pm | Seville | Plaza de la Encarnación 19 |
 | El Pintón | Wed Oct 14 | 9:00pm | Seville | C. Francos 42 — 955 07 51 53 |
+| Carmen El Agua | Thu Oct 15 | 8:00pm | Granada | Balcony, Alhambra view — Placeta del Aljibe de Trillo 7 |
 | Cocina Hermanos Torres (3★) | Sat Oct 17 | 9:00pm | Barcelona | Carrer del Taquígraf Serra 20 — via TheFork |
 | Bornès | Sun Oct 18 | 9:15pm | Barcelona | Carrer de la Carassa 2, El Born — via TheFork |
 | Lasarte (3★) ⏳ waitlist | Sat Oct 17 | 8:30pm | Barcelona | C/ de Mallorca 259 — tasting €345 |
@@ -332,7 +334,6 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 - [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking
 - [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
 - [ ] Seine river cruise — Oct 12 evening
-- [ ] Granada dinner — Oct 15
 - [x] Enroll in Priority Pass (Amex Brilliant)
 - [ ] Email all 5 hotels 3 days before arrival — Platinum requests
 - [ ] Travel insurance
