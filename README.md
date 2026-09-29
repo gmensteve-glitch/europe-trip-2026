@@ -217,6 +217,68 @@ Confirmation screenshots in [`confirmations/`](confirmations/).
 
 Oct 20 LHR arrival → hotel: Heathrow Express to Paddington (15 min), then taxi.
 
+
+## 🎟️ Lounge access (Virgin Upper Class + Priority Pass via Bonvoy Brilliant)
+
+**Enroll in Priority Pass first:** americanexpress.com → Brilliant card → Benefits → Priority Pass → Enroll. Digital card in the PP app works immediately. Get Franchesca her own card or guest fees (~$35) apply.
+
+| Date | Airport | Lounge | Access via |
+|---|---|---|---|
+| Oct 7 | LAX T2 (depart) | **Virgin Clubhouse** | Upper Class |
+| Oct 8 | LHR T3 (connect) | **Virgin Revivals** — shower, breakfast | Upper Class arrivals |
+| Oct 13 | Orly 4 (depart) | Priority Pass lounge — check PP app | Priority Pass |
+| Oct 16 | GRX (depart) | Sala VIP Federico García Lorca | Priority Pass |
+| Oct 20 | BCN T1 (depart) | BA partner lounge / Sala VIP Miró | Club Europe |
+| Oct 20 | LHR T5 (arrive) | **BA Arrivals Lounge** — shower, breakfast | Club Europe |
+| Oct 22 | LHR T3 (depart) | **Virgin Clubhouse** — spa, restaurant, cocktail bar | Upper Class |
+
+**Oct 22 tip:** arrive 7:06, flight 9:55 — ask for a Clubhouse spa slot the second you walk in.
+
+No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
+
+## 🏨 Marriott Platinum Elite — hotel-by-hotel playbook
+
+**Universal Platinum benefits at every hotel:**
+- Welcome gift: breakfast for 2 OR 1,000 points → **always choose breakfast**
+- 4pm late checkout, guaranteed
+- Enhanced room upgrade incl. select suites, based on availability
+- 50% bonus points, free premium wifi, guaranteed room type
+
+**Pro move:** email each hotel 3 days before arrival: *"Bonvoy Platinum Elite, arriving [date], conf# [X]. Requesting breakfast amenity for two and any suite upgrade availability."* Advance requests beat check-in requests. Keep Bonvoy number on every reservation.
+
+### Hôtel de Berri — Luxury Collection — Oct 8-13
+- **Breakfast:** Not a buffet. "American Breakfast" (~€45 value) — continental spread + hot dish à la carte. Some guests report being charged for hot items — push back, it's included in the Platinum amenity. Check bill daily.
+- **Upgrades:** Generous for Platinum per reviews. All rooms unique. Push for a suite — 5 nights.
+- **Ask for:** "American Breakfast for two as welcome amenity, any suite upgrade available."
+- No lounge.
+
+### Querencia de Sevilla — Autograph Collection — Oct 13-15
+- **Breakfast:** Breakfast as Platinum amenity. Confirm at check-in.
+- **Upgrades:** Small boutique, tight inventory. Ask for Giralda-view room.
+- **Ask for:** Breakfast for two, upgrade, late checkout to 11:30 on the 15th (train at 12:17).
+- No lounge.
+
+### Palacio de Santa Paula — Autograph Collection — Oct 15-16
+- **Breakfast:** Breakfast as Platinum amenity.
+- **Upgrades:** Historic convent, rooms vary. Ask for suite in old convent section.
+- **Ask for:** Breakfast, upgrade, and **4pm late checkout on Oct 16** — critical. Alhambra ends 12:30, flight 8pm. Come back, shower, rest, leave at 6.
+- No lounge.
+
+### Cotton House — Autograph Collection — Oct 16-20
+- **Breakfast:** Breakfast as Platinum amenity. Good spread in the main room.
+- **Upgrades:** 83 rooms, top points hotel in Barcelona. Longest Spain stay — push hardest here. Ask for interior terrace view or suite.
+- **Ask for:** "Breakfast for two, upgrade request — here 4 nights."
+- Late checkout not needed (5:20am pickup Oct 20).
+- No lounge.
+
+### Sheraton Grand London Park Lane — Oct 20-22
+- **Best Platinum hotel on the trip.** Full club lounge, you + 1, automatic.
+- **Breakfast — two options:** Lounge breakfast (continental + 2 hot items, pancakes, eggs benedict) is automatic. OR full buffet in Mercante restaurant as welcome gift. **Choose Mercante** — better breakfast, you still get lounge for afternoon tea + evening canapés/wine.
+- **Lounge:** Ground floor, Brick Street entrance side. Breakfast, afternoon tea, evening canapés. Windows over Green Park.
+- **Upgrades:** Multiple Platinum reviewers got suites with park views.
+- **Ask for:** "Full breakfast in Mercante as welcome amenity, club lounge access, suite or Green Park view upgrade."
+- **Oct 22:** grab lounge coffee before the 6:20 pickup.
+
 ## 🏨 Hotels — all booked
 
 | City | Hotel | Dates | Nights | Conf# |
@@ -268,6 +330,8 @@ Oct 20 LHR arrival → hotel: Heathrow Express to Paddington (15 min), then taxi
 - [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
 - [ ] Seine river cruise — Oct 12 evening
 - [ ] Granada dinner — Oct 15
+- [ ] Enroll in Priority Pass (Amex Brilliant) + get Franchesca a card
+- [ ] Email all 5 hotels 3 days before arrival — Platinum requests
 - [ ] Travel insurance
 - [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking (if still active)
 - [ ] Check passport expiration dates
