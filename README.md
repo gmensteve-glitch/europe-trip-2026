@@ -360,13 +360,14 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 ```
 europe-trip-2026/
 ├── README.md              ← this file (master itinerary)
-├── itinerary.pdf          ← printable summary
+├── PLANNING-LOG.md        ← every decision made and why
+├── itinerary.pdf          ← printable summary (early version)
 ├── tickets/               ← attraction e-tickets (show at entry)
 │   ├── louvre-oct10-9am.pdf
 │   ├── musee-dorsay-oct10-2pm.pdf
 │   ├── pantheon-oct10.pdf
 │   ├── notre-dame-bell-towers-oct11-915am.pdf
 │   └── sainte-chapelle-conciergerie-oct11-12pm.pdf
-├── confirmations/         ← flight, hotel, restaurant confirmation screenshots (16)
-└── research/              ← flight searches, seat maps, fare comparisons (19)
+├── confirmations/         ← every booking confirmation screenshot (43)
+└── research/              ← searches, comparisons, options considered (43)
 ```
