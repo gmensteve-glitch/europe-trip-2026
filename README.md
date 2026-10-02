@@ -329,13 +329,11 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 
 ## 📋 Still to book
 
-- [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking
 - [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
 - [ ] Seine river cruise — Oct 12 evening
 - [x] Enroll in Priority Pass (Amex Brilliant)
 - [ ] Email all 5 hotels 3 days before arrival — Platinum requests
 - [ ] Travel insurance
-- [ ] Cancel accidental Osteria del Sesto Fri Oct 9 booking (if still active)
 - [ ] Check passport expiration dates
 
 ## 🌤️ Weather

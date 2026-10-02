@@ -79,5 +79,5 @@ Record of every decision made while planning, so the reasoning is preserved. New
 
 - ~~Oct 17 Barcelona: Hermanos Torres vs Lasarte~~ — **Oct 2: Lasarte cancelled, keeping Hermanos Torres.**
 - Catacombs — book Oct 5 at 10am Paris time.
-- Cancel the accidental Osteria del Sesto Fri Oct 9 if still active.
+- ~~Cancel accidental Sesto Fri Oct 9~~ — done Oct 2.
 - Osteria del Sesto Oct 10 time: booked 7:30pm, one screenshot showed 9:00pm — verify.
