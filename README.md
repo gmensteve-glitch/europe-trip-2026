@@ -144,7 +144,6 @@ Steven & Franchesca Vaynberg
 - Afternoon: walk Avinguda de Gaudí to Hospital de Sant Pau (10 min), or Passeig de Gràcia for Casa Batlló / La Pedrera exteriors
 - Rest, dress up (smart casual, jacket welcome)
 - ✅ **Cocina Hermanos Torres 9:00pm** — 3★ Michelin, #2 in Barcelona — Carrer del Taquígraf Serra 20, Les Corts (15 min Uber) — no pork noted — via TheFork
-- ⏳ Lasarte 8:30pm — WAITLISTED, same night — if it clears, pick one and cancel the other
 
 ### Oct 18 (Sun) — Park Güell + Gràcia
 - ✅ **Park Güell guided tour 11:00am** (1 hr, skip-the-line) — ARRIVE 10:45, no late entry — City Wonders — check GetYourGuide app for meeting point
@@ -321,7 +320,6 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 | Carmen El Agua | Thu Oct 15 | 8:00pm | Granada | Balcony, Alhambra view — Placeta del Aljibe de Trillo 7 |
 | Cocina Hermanos Torres (3★) | Sat Oct 17 | 9:00pm | Barcelona | Carrer del Taquígraf Serra 20 — via TheFork |
 | Bornès | Sun Oct 18 | 9:15pm | Barcelona | Carrer de la Carassa 2, El Born — via TheFork |
-| Lasarte (3★) ⏳ waitlist | Sat Oct 17 | 8:30pm | Barcelona | C/ de Mallorca 259 — tasting €345 |
 | Jacqueline | Mon Oct 19 | 8:00pm | Barcelona | Enric Granados 66 — Ref #5E2HWN4JUWN5 |
 | Engel | Tue Oct 20 | 2:00pm | London | Royal Exchange, EC3V 3LT — 020 8187 2208 |
 | Jacuzzi | Tue Oct 20 | 9:00pm | London | 94 Kensington High St — Ref #6B3X62X7YFNS |
