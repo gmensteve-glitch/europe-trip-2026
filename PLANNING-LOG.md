@@ -75,9 +75,19 @@ Record of every decision made while planning, so the reasoning is preserved. New
 
 ---
 
+## Oct 1–5 — Final checks
+
+- Lasarte cancelled Oct 2. Hermanos Torres is the Michelin night.
+- Accidental Sesto Oct 9 confirmed cancelled.
+- Hotel email schedule written (see README). Assigned to assistant.
+- Sagrada: no name request came through, assumed fine.
+- Catacombs: Oct 12 opens in the 7-day window on **Oct 6** — not yet bookable on Oct 5.
+- Wife may have booked something on Oct 10 that conflicts with Sesto — TBD.
+- Conversation maxed out attachments. New chat starts from this repo.
+
 ## Open decisions
 
 - ~~Oct 17 Barcelona: Hermanos Torres vs Lasarte~~ — **Oct 2: Lasarte cancelled, keeping Hermanos Torres.**
-- Catacombs — book Oct 5 at 10am Paris time.
+- **Catacombs — book Oct 6** (Oct 12, 10am slot). Window opens tomorrow.
 - ~~Cancel accidental Sesto Fri Oct 9~~ — done Oct 2.
-- Osteria del Sesto Oct 10 time: booked 7:30pm, one screenshot showed 9:00pm — verify.
+- Osteria del Sesto Oct 10: booked 7:30pm, one screenshot showed 9pm — verify. Wife may have booked something else that night — may cancel Sesto.

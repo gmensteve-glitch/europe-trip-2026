@@ -281,6 +281,20 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 - **Ask for:** "Full breakfast in Mercante as welcome amenity, club lounge access, suite or Green Park view upgrade."
 - **Oct 22:** grab lounge coffee before the 6:20 pickup.
 
+## 📧 Hotel Platinum emails — schedule
+
+Send from gmensteve@gmail.com. Subject: *Bonvoy Platinum Elite — Arrival [date] — Conf# [X]*. Find each hotel's email on its marriott.com page under Contact, or call.
+
+| Send by | Hotel | Conf# | Ask for |
+|---|---|---|---|
+| Oct 5 | Hôtel de Berri | 96633567 | American Breakfast ×2, suite upgrade, quiet room (late arrival ~10:45pm) |
+| Oct 10 | Querencia de Sevilla | 97811298 | Breakfast ×2, Giralda/cathedral-view upgrade |
+| Oct 12 | Palacio de Santa Paula | 75665087 | Breakfast ×2, suite upgrade, **late checkout 4pm Oct 16** (flight 8pm) |
+| Oct 13 | Cotton House | 97844676 | Breakfast ×2, suite/terrace upgrade — longest stay, late arrival ~9:50pm |
+| Oct 17 | Sheraton Grand Park Lane | 76341405 | Mercante breakfast ×2, club lounge, suite/Green Park view, 6:20am departure Oct 22 |
+
+Template: *"Hello, I'm a Bonvoy Platinum Elite member arriving [day] for [N] nights, confirmation [X], 2 guests. I'd like to select breakfast for two as my welcome amenity, and would appreciate any suite upgrade available. [Specific ask.] Thank you, Steven Vaynberg"*
+
 ## 🏨 Hotels — all booked
 
 | City | Hotel | Dates | Nights | Conf# |
@@ -329,7 +343,7 @@ No lounge needed: CDG (arrive 10pm), SVQ (arrive), BCN (arrive 9:30pm).
 
 ## 📋 Still to book
 
-- [ ] Catacombs — Oct 12, 10am — **book Oct 5** (catacombes.paris.fr)
+- [ ] Catacombs — Oct 12, 10am — **book Oct 6**
 - [ ] Seine river cruise — Oct 12 evening
 - [x] Enroll in Priority Pass (Amex Brilliant)
 - [ ] Email all 5 hotels 3 days before arrival — Platinum requests
